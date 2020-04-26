@@ -1,0 +1,18 @@
+body{
+	font-family: 'Roboto';
+}
+
+h1,h3,p{
+	margin: 0;
+}
+.container{
+	margin: auto;
+}
+.titulo{
+	text-align: center;
+
+}
+.titulo h1{
+
+	display: inline-block;
+}
